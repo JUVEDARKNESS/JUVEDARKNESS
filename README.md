@@ -1,12 +1,6 @@
-### Hi there 👋
 
-```JS
-const Darkness(
-  pronouns: "he" | "hiM",
-  code: (HTML, CSS),
-**Darkness/Darkness**
-```
-
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, Im Darkness <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  
 ### Frontend ###
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
